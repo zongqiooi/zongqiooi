@@ -4,7 +4,9 @@ My name is Zong Qi and I am an Electrical and Electronic Engineering student fro
 
 💻 Personal Website: https://zongqiooi.ml
 
+<!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zongqiooi&layout=compact&theme=calm)](https://github.com/zongqiooi/github-readme-stats)
+--->
 
 <!---
 zongqiooi/zongqiooi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
